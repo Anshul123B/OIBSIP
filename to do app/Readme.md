@@ -6,6 +6,6 @@ In this app i have used html to create a maint templet of the web app.
 
 I have used css to design and decorate, and create user friendly this web app.
 
-i have used js to create the task adding editing saving and deleting features in this webapp.
+I have used js to create the task adding editing saving and deleting features in this webapp.
 
-i hope you all guys must enjoy this to do web app.
+I hope you all guys must enjoy this to do web app.
