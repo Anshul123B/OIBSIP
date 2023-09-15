@@ -1,6 +1,5 @@
 # APJ Abdul Kalam Tribute Page
 
-![APJ Abdul Kalam](kalam.jpg)
 
 This is a simple tribute page dedicated to Dr. APJ Abdul Kalam, the former President of India, renowned scientist, and a visionary leader. The page is created using HTML and CSS to honor his contributions to science, education, and the betterment of society.
 
@@ -50,7 +49,7 @@ Contributions to this tribute page are welcome. If you'd like to make improvemen
 
 ## License
 
-This tribute page is open-source and available under the [MIT License](LICENSE). You are free to use and modify the code for personal or educational purposes.
+This tribute page is open-source and available under the [MIT License]. You are free to use and modify the code for personal or educational purposes.
 
 ---
 
