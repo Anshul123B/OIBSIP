@@ -82,4 +82,4 @@ Please follow best practices for code quality and documentation when contributin
 
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. Please refer to the LICENSE file for more details.
 
-Thank you for visiting the OIBSIP repository and exploring its projects! We hope you find them helpful and inspiring for your web development projects.
+Thank you for visiting the OIBSIP repository and exploring its projects! I hope you find them helpful and inspiring for your web development projects.
