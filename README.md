@@ -30,7 +30,6 @@ Feel free to explore each project folder and use them as a reference for your ow
 The Calculator project is a simple web-based calculator that can perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It provides a user-friendly interface for performing calculations.
 
 - **Folder**: `calculator`
-- **Demo**: [Calculator Demo](calculator/index.html)
 - **Features**:
   - Addition
   - Subtraction
@@ -44,7 +43,6 @@ The Calculator project is a simple web-based calculator that can perform basic a
 The Todo Web App is a task management application that allows users to create, update, and delete tasks. Users can maintain a list of tasks with descriptions and mark them as completed when done.
 
 - **Folder**: `todo-app`
-- **Demo**: [Todo Web App Demo](todo-app/index.html)
 - **Features**:
   - Adding tasks
   - Updating task descriptions
@@ -57,7 +55,6 @@ The Todo Web App is a task management application that allows users to create, u
 The Tribute Page project is a single-page website dedicated to APJ Abdul Kalam. It serves as a tribute to their achievements and contributions. This project demonstrates the use of HTML and CSS for creating a visually appealing webpage.
 
 - **Folder**: `tribute-page`
-- **Demo**: [Tribute Page Demo](tribute-page/index.html)
 - **Features**:
   - Biography and information about the APJ Abdul Kalam
   - Visual elements and styling
