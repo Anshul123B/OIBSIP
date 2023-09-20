@@ -48,8 +48,8 @@ The Todo Web App is a task management application that allows users to create, u
   - Updating task descriptions
   - Marking tasks as completed
   - Deleting tasks
-  - Filtering tasks by status (completed or active)
 
+    
 ### 3. Tribute Page
 
 The Tribute Page project is a single-page website dedicated to APJ Abdul Kalam. It serves as a tribute to their achievements and contributions. This project demonstrates the use of HTML and CSS for creating a visually appealing webpage.
